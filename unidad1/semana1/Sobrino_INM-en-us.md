@@ -14,7 +14,7 @@ Si eres extranjero residente temporal o temporal estudiante puedes solicitar per
 
 ### Documentos necesarios
 
-| **Documento requerido** | **Presentación** |
+| **Documento requerido** | **Format** |
 |-------------------------|------------------|
 | [Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |
 | Tarjeta de residente temporal o de residente temporal estudiante vigente | Original |
