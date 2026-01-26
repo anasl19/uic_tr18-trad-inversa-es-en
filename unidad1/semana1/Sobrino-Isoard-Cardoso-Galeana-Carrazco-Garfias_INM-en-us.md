@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INM -Woek Permit 
+title: INM -Work Permit 
 parent: Semana 1
 grand_parent: Unidad 1
 nav_order: 5
@@ -8,65 +8,64 @@ nav_order: 5
 
 # Instituto Nacional de Migración
 
-## Obtención de permiso de trabajo para extranjeros residentes temporales en México
+## Procedure for work permit for foreign temporary residents in Mexico
 
-Si eres extranjero residente temporal o temporal estudiante puedes solicitar permiso para trabajar en México.
+If you are a foreign temporary resident or student temporary resident, you can ask for permission to work in Mexico. 
 
-### Documentos necesarios
+### Required documents
 
-| **Documento requerido** | **Format** |
+| **Required documents** | **Format** |
 |-------------------------|------------------|
-| [Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |
-| Tarjeta de residente temporal o de residente temporal estudiante vigente | Original |
-| Comprobante del pago de derechos que corresponda de conformidad con la Ley Federal de Derechos | Original |
-| Carta oferta de empleo en papel membretado de persona física o moral en la que se indique actividad a realizar, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador debidamente actualizada | Original |
+| [Necessary form for application to immigratory stay procedure, must be completed electronically on the web page, with the wet signature of the petitioner](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |
+| Valid temporary resident card or student temporary resident card | Original |
+| Proof of payment of the applicable government fees, in accordance with the Ley Federal de Derechos of Mexico | Original |
+| Offer of employment letter on letterhead of an individual or legal entity, indicating the activity to be performed, the required period of stay, the place of work, and the details of the employer's duly updated certificate of registration | Original |
 
-**En caso de actividades independientes, deberá adjuntar:**
+**In case of independent activities, the following must be attached:**
 
-- [Escrito bajo protesta de decir verdad](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) en el que manifieste la ocupación a la que se dedicará y el lugar en el que desarrollará las actividades propias de su ocupación. Descargar y requisitar. **Original**
+- [A written statement under oath](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) stating the occupation to be carried out and the place where the activities inherent to such occupation will be performed. Download and fill. **Original**
 
-- Comprobante de la inscripción en el Registro Federal de Contribuyentes. **Copia**
+- Proof of registration with the Federal Taxpayers Registry (RFC). **Copy**
 
-- El residente temporal estudiante además de la tarjeta de residente, comprobante del pago de derechos y carta oferta de empleo, deberá presentar carta de conformidad de la institución educativa correspondiente. Lo anterior siempre y cuando, realice estudios de nivel superior, posgrado e investigación y la ocupación que pretenda desarrollar se encuentre relacionada con la materia de sus estudios. **Original**
+- The student temporary resident, in addition to the resident card, proof of payment of fees, and offer of employment letter, must submit a letter of consent from the corresponding educational institution. This shall apply only when the applicant is pursuing higher education, postgraduate degree, or academic research, and when the occupation intended to be carried out is related to the field of study. **Original**
 
-| **Documento requerido** | **Presentación** |
+| **Required document** | **Format** |
 |-------------------------|------------------|
-| En el caso de mayores de quince y menores de dieciocho años de edad, adicionalmente deberán exhibir los permisos o autorizaciones previstos en la normatividad laboral | Original y Copia |
+| In the case of applicants over fifteen and under eighteen years of age, they must additionally submit the permits or authorizations provided for under labor regulations | Original and Copy |
 
-**Nota:** Los trámites deberán presentarse solamente en original, y sus anexos, en copia simple. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto. (Artículo 15 A fracción I de la Ley Federal de Procedimiento Administrativo)
+**Notice:** Procedures should be made with only the original documents and their enclosures, along with simple copies. If the person concerned requires an acknowledgement of receipt, they must attach a copy for that purpose. (In accordance with Article 15-A, paragraph I, of the Federal Administrative Procedure Law - Artículo 15 A fracción I de la Ley Federal de Procedimiento Administrativo)
 
-### Costos
+### Costs
 
-| **Tipo de residente** | **Costo** |
+| **Type of resident** | **Costs** |
 |----------------------|-----------|
-| A Residente Temporal | $4,001.00 mxn |
-| A Residente Temporal Estudiante | $4,001.00 mxn |
+| A Temporary Resident | $4,001.00 MXN |
+| A Student Temporary Resident | $4,001.00 MXN |
 
-| **Concepto** | **Monto** |
+| **Concept** | **Cost** |
 |--------------|-----------|
-| Por recepción, estudio y, en su caso, autorización de Permiso de trabajo | Monto variable |
+| For receipt, studies and, in this case, authorization of Work Permit | Variable amount |
 
-**Nota:** Para generar la línea de captura del pago correspondiente ingresa a la siguiente [liga](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
+**Notice:** In order to generate the payment OCR scan line (línea de captura) for the corresponding payment, please use the following [link](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
 
-La hoja de ayuda se deberá llenar atendiendo a las siguientes especificaciones:
+The payment information form must be filled out in accordance with the following specifications:
 
-- Corroborar que corresponda con el tipo de trámite solicitado
+- Make sure it matches the requested procedure
 
-- Registrar exactamente los nombres y apellidos completos con los que se está identificando la persona extranjera en la solicitud de trámite. (Sin importar la cantidad de nombres y apellidos)
+- Accurately register all of the name(s) and the surname(s) that the foreign individual has previously registered in the application for the procedure. (The number of name(s) and the surname(s) is of no consequence)
 
-- En caso de menores de edad, se deberá registrar el pago con los nombres y apellidos de los menores
+- In case the applicant is a minor, the payment must be registered under the name and surname of the minor
 
-- Se sugiere revisar exhaustivamente los recibos de pago que emitan las instituciones bancarias, a fin de que no medie error en los datos de identificación de la persona
+- It is suggested that you thoroughly check the payment receipts issued by the Banks in order to ensure that there are no mistakes with the identification data of the applicant 
+### Options for filing your procedure
 
-### Opciones para realizar tu trámite
+**Online:** You can begin your procedure online and print your documents to continue the procedure in person.
 
-**En línea:** Empieza tu solicitud en línea, imprime e ingresa de manera presencial.
+**In person:** Visit the office in charge of procedures [oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) of the Institute corresponding to the applicant’s residence. If the corresponding Representative Office is far away from your residence, it is suggested to call the office in advance to request information from the INM office closest to your place of residence.
 
-**Presencial:** En la [oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) que corresponda al domicilio del interesado. En caso de que la ubicación de la Oficina de Representación que le corresponda sea lejana, se sugiere contactar vía telefónica a ésta, solicitando informes por una oficina del INM más cercana a su domicilio.
-
-**Vía telefónica:** (orientación) 800 00 46264.
+**Phone:** (for counselling) 800 00 46264.
 
 ---
 
-**Fuente:** [Gobierno de México - Instituto Nacional de Migración](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)
+**Source:** [Gobierno de México - Instituto Nacional de Migración](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)
 
