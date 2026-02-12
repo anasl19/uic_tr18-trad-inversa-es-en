@@ -31,7 +31,7 @@ The techniques employed to design quality system prompts that satisfy these requ
 | Chain of Thought | The ability of LLM to perform complex reasoning is improved by breaking the problem into incremental subproblems, enhancing the accuracy of mathematical, logical, and computational responses. | Wei et al., 2022 |
 | Indicate the role assumed during the conversation with the user | Assing a specific role to infer some of the expected behavior rules and thus save textual space dedicated to the meticulous specification of the interaction. | Su et al., 2023 |
 | Interactive conversation model | Solving complex problems requires additional details that are achieved through a dynamic interaction with the user, inviting them to express their ideas in a written and sequential manner, as they are needed. | Jiao et al., 2024 |
-| OHide internal prompt information | Restrict access to the information contained in the prompt by the user by providing a brief description of its operation, sufficient to describe its utility. | Human-computer interaction |
+| Hide internal prompt information | Restrict access to the information contained in the prompt by the user by providing a brief description of its operation, sufficient to describe its utility. | Human-computer interaction |
 
 ## Example of a System Prompt
 
