@@ -90,63 +90,63 @@ In compliance with the provisions of Section I of Article 89 of the Political Co
 **Source:** [https://sidof.segob.gob.mx/notas/5749329](https://sidof.segob.gob.mx/notas/5749329)
 
 ---
-## Document 3 - Noticia 1
+## Document 3 - News Item 1
 
-### INFORMADOR.MX | ÚLTIMAS NOTICIAS
+### INFORMADOR.MX | LATEST NEWS
 
-### Senado aprueba por unanimidad la entrada de marines de EU para capacitar a la Semar
+### Senate unanimously approves entry of U.S. Marines to train Mexico’s Navy
 
-**El Senado aprobó la solicitud de ingreso de 10 elementos del ejército de Estados Unidos**
+**The Senate approved the request to allow the entry of 10 members of the United States military into the country.**
 
-Por: SUN.
+By: SUN.
 
-11 de febrero de 2025 - 16:02 hs
+February 11, 2025 – 4:02 PM
 
-![Elemento de la Marina detiene a personas con las manos levantadas durante un operativo en zona boscosa](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1-image.png)
+![A Navy officer detains individuals with their hands raised during an operation in a wooded area.](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1-image.png)
 
-<small>Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO</small>
+<small>The Navy (Semar) approved the proposal with 107 votes from all parliamentary groups. SUN/FILE</small>
 
-Con un voto unánime, la Presidenta Claudia Sheinbaum Pardo obtuvo la *autorización del Pleno del Senado para conceder el ingreso de 10 elementos del ejército estadounidense al territorio mexicano*, con el propósito de participar en las actividades de adiestramiento denominadas para "Fortalecer la capacidad de las fuerzas de operaciones especiales de la Semar (Secretaría de Marina)".
+With a unanimous vote, President Claudia Sheinbaum Pardo obtained authorization from the full Senate to allow the entry of 10 members of the United States Army into Mexican territory, with the purpose of participating in military training activities aimed at strengthening the operational capabilities of the Navy’s Special Operations Forces.
 
-**Te puede interesar: México no descarta espionaje de aviones de Estados Unidos**
+**You may be interested in: Mexico does not rule out espionage by U.S. aircraft**
 
-Esta capacitación tendrá como duración del día *17 de febrero al 28 de marzo del presente año*, y será en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina, con sede en 8San Luis Carpizo, Campeche8.
+This training will take place from February 17 to March 28 of this year and will be held at the Specialized Training Center for Marine Infantry, located in San Luis Carpizo, Campeche.
 
-Lilly Téllez, senadora del PAN, mencionó, en tribuna, que este tipo de actividades internacionales "nos recuerda cómo sí se puede cooperar entre ambas fuerzas militares, las estadounidenses y las mexicanas".
+Lilly Téllez, a senator from the PAN party, stated during her speech that this type of international activity “reminds us that cooperation between both military forces—the U.S. and Mexican forces—is indeed possible.”
 
-"Como vemos no hay invasión de México porque vengan fuerzas estadounidenses a cooperar con las mexicanas, no hay invasión, no hay ninguna violación a la soberanía, la patria no se vendió, la patria no se sometió porque constantemente haya esta cooperación entre fuerzas estadounidenses y fuerzas mexicanas.
+“As we can see, there is no invasion of Mexico simply because U.S. forces come to cooperate with Mexican forces. There is no invasion, no violation of sovereignty; the nation has not been sold or subordinated simply because this kind of cooperation between U.S. and Mexican forces takes place regularly.
 
-"¿Por qué entonces no aceptar la cooperación con Estados Unidos para proceder contra los cárteles en México?, ¿por qué no aceptarlo bajo un convenio de cooperación en un marco legal como está sucediendo y como ha sucedido en todos estos años cuando se realizan este tipo de ejercicios que hoy autorizamos?", cuestionó.
+“So why not accept cooperation with the United States to take action against cartels in Mexico under a cooperation agreement within a legal framework, as is happening now and has been happening for years whenever these types of exercises are carried out and authorized?” she questioned.
 
-Aseguró que no sólo **no habría violación a nuestra soberanía con una colaboración con Estados Unidos** contra los cárteles, sino que se podrían salvar la vida de los mexicanos "que Morena ha dejado indefensos ante la guerra del crimen organizado contra los ciudadanos. Así vemos que sí está claro que se puede cooperar sin sometimiento", insistió.
+She argued that **not only would such collaboration not violate Mexico’s sovereignty**, but it could also save the lives of Mexicans “who have been left defenseless by Morena in the face of the war of transnational organized crime against citizens. This clearly shows that cooperation without subordination is possible,” she insisted. 
 
-#### El Estado mexicano no puede contra los cárteles
+#### The Mexican State cannot confront the cartels
 
-Lili Téllez dijo que la realidad es que *el Estado mexicano no puede contra los cárteles*, porque de lo contrario ya hubiera procedido.
+Lilly Téllez stated that the reality is that the Mexican State cannot confront the cartels; otherwise, it would have already done so.
 
-Al presentar el proyecto de Decreto, el senador del PRI Rolando Zapata Bello, secretario de la Comisión de Marina, afirmó que la colaboración con Estados Unidos para entrenar a personal de la Armada de México representa una oportunidad significativa para fortalecer nuestra seguridad nacional.
+While presenting the draft decree, PRI senator Rolando Zapata Bello, secretary of the Navy Commission, said that collaboration with the United States to train Mexican Navy personnel represents a significant opportunity to strengthen national security.
 
-Aseguró que el proyecto ha sido analizado con detenimiento para **garantizar que preserve nuestra soberanía y refuerce nuestras capacidades nacionales**.
+He assured that the proposal had been carefully analyzed **to ensure that it preserves Mexico’s sovereignty while strengthening national capabilities**.
 
-"El entrenamiento conjunto con las Fuerzas Armadas de Estados Unidos puede fortalecer nuestras capacidades de combate, rescate, navegación y manejo de equipos tácticos, impulsando el profesionalismo y la eficiencia de nuestra Armada para responder mejor ante las amenazas crecientes que acechan al país", argumentó el exgobernador de Yucatán.
+“Joint training with the United States Armed Forces can strengthen our combat capabilities, as well as our capacity in rescue, navigation, and the handling of tactical equipment, promoting professionalism and efficiency within our Navy so it can better respond to the growing threats affecting national security,” argued the former governor of Yucatán.
 
 **Lee: La FGR da fuerte golpe al tráfico de fentanilo**
 
-"Damos la bienvenida a la colaboración con los Estados Unidos como aliados estratégicos, conscientes del potencial de esa colaboración. No obstante, reitero: su éxito dependerá de una gestión cuidadosa que garantice el fortalecimiento de nuestra soberanía y nuestros principios democráticos de gobierno. Debemos siempre asegurar que estos esfuerzos hagan a México más fuerte y mejor preparado para defender a la patria, para garantizar la libertad y la pluralidad de nuestra tierra", apuntó Zapata Bello.
+“We welcome collaboration with the United States as a strategic ally, fully aware of its potential. However, I reiterate: its success will depend on careful management that guarantees the strengthening of our sovereignty and democratic principles. We must always ensure that these efforts make Mexico stronger and better prepared to defend the nation, to guarantee freedom and pluralism in our country,” Zapata Bello added.
 
-La iniciativa **fue aprobada con 107 votos** de todas las fracciones parlamentarias.
+The initiative **was approved with 107 votes** from all parliamentary groups.
 
-#### Temas
+#### Topics
 
 Claudia Sheinbaum<br>
-Estados Unidos<br>
-Senado<br>
+United States<br>
+Senate<br>
 Semar<br>
 
-**Fuente:** [https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html](https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html)
+**Source:** [https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html](https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html)
 
 ---
-## Document 4 - Noticia 2
+## Document 4 - News Item 2
 
 ### El Heraldo de Saltillo | MEXICO
 
