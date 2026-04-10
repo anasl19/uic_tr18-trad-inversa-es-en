@@ -53,8 +53,6 @@ CLAUDIA SHEINBAUM PARDO
 
 Executive Branch / PRESIDENCY OF THE REPUBLIC
 
-**Published on:** 17-02-2025
-
 **Section:** Unica
 
 **Edition:** Matutina
