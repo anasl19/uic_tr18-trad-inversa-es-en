@@ -63,7 +63,7 @@ Executive Branch / PRESIDENCY OF THE REPUBLIC
 
 **On the margin, a seal bearing the National Emblem, which reads: United Mexican States – Presidency of the Republic.**
 
-**CLAUDIA SHEINBAUM PARDO**, president of the United Mexican States, to its inhabitants, be it known:
+**CLAUDIA SHEINBAUM PARDO**, President of the United Mexican States, to its inhabitants, be it known:
 
 That the Senate of the Honorable Congress of the Union has made available to me the following address
 
