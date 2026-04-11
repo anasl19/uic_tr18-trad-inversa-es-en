@@ -23,7 +23,7 @@ The Secretariat of the Navy received an invitation from the Defense Coordination
 
 The purpose of said event is for members of the Special Forces of the United States Army Special Operations Command and personnel of the Special Operations Unit of the Secretariat of the Navy to carry out training activities related to the execution of tactics, techniques, and procedures of conventional and unconventional combat, in amphibious operations across maritime, land, and air environments.
 
-Subject to the authorization of that legislative body, a delegation composed of ten (10)members of the Seventh Special Forces Group of the United Stated of America would enter national territory, carrying the weapons, ammunition, materials, and specialized equipment necessary for the joint combined training.
+Subject to the authorization of that legislative body, a delegation composed of ten (10) members of the Seventh Special Forces Group of the United Stated of America would enter national territory, carrying the weapons, ammunition, materials, and specialized equipment necessary for the joint combined training.
 
 The instructor personnel will arrive at Campeche International Airport aboard a C-130 military aircraft belonging to the United States Army on February 15, 2025, and will depart the country on March 30, 2025.
 
