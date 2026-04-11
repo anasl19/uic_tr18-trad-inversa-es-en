@@ -53,23 +53,23 @@ CLAUDIA SHEINBAUM PARDO
 
 Executive Branch / PRESIDENCY OF THE REPUBLIC
 
-**Section:** Unica
-
-**Edition:** Matutina
-
 **Published on:** 17-02-2025
+
+**Section:** Single
+
+**Edition:** Morning
 
 **DECREE granting authorization to the President of the United Mexican States to allow the entry into national territory of ten (10) military personnel of the United States Army, in order to participate in the training activity entitles “Strengthening the Capacity of SEMAR Special Operations Forces”, to be carried out at the Specialized Training and Education Center for Naval Infantry, located in San Luis Carpizo, Campeche, from February 27 to March 28, 2025.**
 
 **On the margin, a seal bearing the National Emblem, which reads: United Mexican States – Presidency of the Republic.**
 
-**CLAUDIA SHEINBAUM PARDO**, resident of the United Mexican States, to its inhabitants, be it known:
+**CLAUDIA SHEINBAUM PARDO**, president of the United Mexican States, to its inhabitants, be it known:
 
 That the Senate of the Honorable Congress of the Union has made available to me the following address
 
 **DECREE**
 
-"THE SENATE OF THE HONORABLE CONGRESS OF THE UNION, IN EXERCISE OF THE POWER CONFERRED UPON IT BY ARTICLE 76, SECTION III OF THE POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES,
+"THE SENATE OF THE HONORABLE CONGRESS OF THE UNION, IN EXERCISE OF THE POWER CONFERRED UPON IT BY ARTICLE 76, SECTION III OF THE POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES"
 
 **DECREE:**
 
@@ -112,13 +112,13 @@ With a unanimous vote, President Claudia Sheinbaum Pardo obtained authorization 
 
 This training will take place from February 17 to March 28 of this year and will be held at the Specialized Training Center for Marine Infantry, located in San Luis Carpizo, Campeche.
 
-Lilly Téllez, a senator from the PAN party, stated during her speech that this type of international activity “reminds us that cooperation between both military forces—the U.S. and Mexican forces—is indeed possible.”
+Lilly Téllez, a senator from the PAN party, stated during her speech that this type of international activity “reminds us that cooperation between both military forces—the U.S. and Mexican forces—is indeed possible".
 
-“As we can see, there is no invasion of Mexico simply because U.S. forces come to cooperate with Mexican forces. There is no invasion, no violation of sovereignty; the nation has not been sold or subordinated simply because this kind of cooperation between U.S. and Mexican forces takes place regularly.
+As we can see, there is no invasion of Mexico simply because U.S. forces come to cooperate with Mexican forces. There is no invasion, no violation of sovereignty; the nation has not been sold or subordinated simply because this kind of cooperation between U.S. and Mexican forces takes place regularly.
 
 “So why not accept cooperation with the United States to take action against cartels in Mexico under a cooperation agreement within a legal framework, as is happening now and has been happening for years whenever these types of exercises are carried out and authorized?” she questioned.
 
-She argued that **not only would such collaboration not violate Mexico’s sovereignty**, but it could also save the lives of Mexicans “who have been left defenseless by Morena in the face of the war of transnational organized crime against citizens. This clearly shows that cooperation without subordination is possible,” she insisted. 
+She argued that **not only would such collaboration not violate Mexico’s sovereignty**, but it could also save the lives of Mexicans “who have been left defenseless by Morena in the face of the war of transnational organized crime against citizens. This clearly shows that cooperation without subordination is possible", she insisted. 
 
 #### The Mexican State cannot confront the cartels
 
@@ -128,11 +128,11 @@ While presenting the draft decree, PRI senator Rolando Zapata Bello, secretary o
 
 He assured that the proposal had been carefully analyzed **to ensure that it preserves Mexico’s sovereignty while strengthening national capabilities**.
 
-“Joint training with the United States Armed Forces can strengthen our combat capabilities, as well as our capacity in rescue, navigation, and the handling of tactical equipment, promoting professionalism and efficiency within our Navy so it can better respond to the growing threats affecting national security,” argued the former governor of Yucatán.
+“Joint training with the United States Armed Forces can strengthen our combat capabilities, as well as our capacity in rescue, navigation, and the handling of tactical equipment, promoting professionalism and efficiency within our Navy so it can better respond to the growing threats affecting national security", argued the former governor of Yucatán.
 
-**Lee: La FGR da fuerte golpe al tráfico de fentanilo**
+**Read: The FGR deals a major blow to fentanyl trafficking**
 
-“We welcome collaboration with the United States as a strategic ally, fully aware of its potential. However, I reiterate: its success will depend on careful management that guarantees the strengthening of our sovereignty and democratic principles. We must always ensure that these efforts make Mexico stronger and better prepared to defend the nation, to guarantee freedom and pluralism in our country,” Zapata Bello added.
+“We welcome collaboration with the United States as a strategic ally, fully aware of its potential. However, I reiterate: its success will depend on careful management that guarantees the strengthening of our sovereignty and democratic principles. We must always ensure that these efforts make Mexico stronger and better prepared to defend the nation, to guarantee freedom and pluralism in our country", Zapata Bello added.
 
 The initiative **was approved with 107 votes** from all parliamentary groups.
 
@@ -160,7 +160,7 @@ By Agencies – February 17, 2025
 
 **Mexico City.-** On February 17, a decree was published in the Official Gazette of the Federation (DOF) authorizing the entry of U.S. military personnel into Mexico with the purpose of training members of the special operations forces of the Ministry of the Navy (Semar).
 
-According to the document, their presence in Mexico aims to participate in the training exercise entitled “Strengthening the Capacity of SEMAR Special Operations Forces,” which will take place at the Specialized Training Center of the Naval Infantry, located in San Luis Carpizo, Campeche, from February 17 to March 28, 2025.
+According to the document, their presence in Mexico aims to participate in the training exercise entitled “Strengthening the Capacity of SEMAR Special Operations Forces", which will take place at the Specialized Training Center of the Naval Infantry, located in San Luis Carpizo, Campeche, from February 17 to March 28, 2025.
 
 The decree was approved by the Senate under the authority granted by Article 76, Section III, of the Political Constitution of the United Mexican States, and was subsequently enacted by President Claudia Sheinbaum Pardo.
 
@@ -174,12 +174,12 @@ The U.S. Department of State is advancing in the process of designating several 
 
 The New York Times reported that the list would include six Mexican cartels:
 
-- Sinaloa Cartel (CDS)
-- Jalisco *Nueva Generación* Cartel (CJNG)
-- Cartel *del Noreste*
-- *La Familia Michoacana*
-- *Unidos* Cartels 
-- Cartel *del Golfo* (CDG)
+- Cártel de Sinaloa (CDS) (Sinaloa Cartel)
+- Cártel Jalisco Nueva Generación (CJNG) (Jalisco New Generation Cartel)
+- Cártel del Noreste (Northwest Cartel)
+- La Familia Michoacana (The Michoacan Family)
+- Cárteles Unidos (United Cartel) 
+- Cártel del Golfo (CDG) (Cartel del Golfo)
 
 The measure is based on an executive order signed by President Donald Trump on January 20, which seeks to classify these groups under the same category as Al-Qaeda or the Islamic State (ISIS). This designation would allow the United States to freeze their assets, restrict their financing, and expand the jurisdiction of its security agencies in the fight against transnational organized crime. (EL HERALDO)
 
